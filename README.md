@@ -1,4 +1,5 @@
-### <div align="center">🚀🤖✨ AI STRATEGY • GENERATIVE AI • BUSINESS ANALYTICS ✨🤖🚀
+### <div align="center">🚀🤖✨ AI ENGINEER • GENERATIVE AI • BUSINESS ANALYTICS ✨🤖🚀
+#### <div align="center"> SAN FRANCISCO, CA
 <br/>
 
 <div align="center">
@@ -30,9 +31,7 @@ I specialize in Generative AI, Enterprise AI Strategy, AI Agents, Machine Learni
 ---
 
 - 🔭 Currently focused on Enterprise AI, AI Agents, RAG Systems, and Generative AI
-
 - 🌱 Exploring advanced LLM architectures, multi-agent systems, Azure AI, and AI strategy
-
 - 👯 Looking to collaborate on AI products, automation platforms, and enterprise AI initiatives
 
 - 💬 Ask me about:
@@ -142,24 +141,16 @@ I specialize in Generative AI, Enterprise AI Strategy, AI Agents, Machine Learni
 
 <div align="center">
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/SF9393">
 <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOURLINKEDIN">
+<a href="https://www.linkedin.com/in/jonathan-anzuoni/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:janzuoni1@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "AI isn't replacing people—it's empowering those who know how to use it."
 
 </div>
