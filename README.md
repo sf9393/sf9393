@@ -1,8 +1,14 @@
 ### <div align="center">🚀🤖✨ AI STRATEGY • GENERATIVE AI • BUSINESS ANALYTICS ✨🤖🚀
 <br/>
 
-<div id="header" align="center">
-  <img src=<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/5246b573-b821-40a2-8db3-c0b188bbef61" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/sf9393/sf9393/main/1780950139367.png"
+    width="150"
+    height="150"
+    style="border-radius: 100%; object-fit: cover;"
+    alt="Profile"
+  />
 </div>
 
 <div align="center">
